@@ -3,6 +3,6 @@ Scripts to allow easy import of LE certs into keystore for Unifi on Ubuntu/Debia
 
 Open Terminal or SSH window and paste:
 
-wget https://path to script/unifi_le.sh && chmod +x unifi_le.sh && ./unifi_le.sh
+wget https://raw.githubusercontent.com/mtan93/unifi-letsencrypt/master/unifi_le.sh && chmod +x unifi_le.sh && ./unifi_le.sh
 
 and enter your domain when prompted to do so, please make sure you do not put https or https on the domain.
